@@ -1,2 +1,3 @@
 abc - the second text
 A to druga linia drugiego tekstu
+A to trzecia linia drugiego tekstu
